@@ -52,3 +52,4 @@ jobs:
           for ($i = 1; $i -le 360; $i++) {
             Start-Sleep -Seconds 60
             Write-Host "[$i/360] Server running..."
+}
